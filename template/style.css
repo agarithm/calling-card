@@ -1,0 +1,88 @@
+body {
+    margin: 0rem auto;
+    padding: 1rem;
+    width: 92%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    color: black;
+    background-color: ivory;
+    font-family: Courier, monospace;
+}
+
+@media screen and (min-width: 60rem) {
+    body {
+        margin: 0rem auto;
+        padding: 1rem;
+        width: 62%;
+        max-width: 60rem;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+        color: black;
+        font-family: 'Courier New', monospace;
+    }
+}
+
+code {
+    font-family: monospace;
+}
+
+h1, h2 { 
+    font-weight: bold;
+    border-bottom: 1px dashed black;
+    color: black;
+}
+
+h3, h4 { 
+    font-weight: bold;
+    color: black;
+}
+
+h5 { 
+    font-size: 100%;
+    font-weight: bold;
+    color: black;
+}
+
+h1.title {
+        font-size: 200%;
+        font-weight: bold;
+        padding-top: 0.2rem;
+        padding-bottom: 0.2rem;
+        text-align: left;
+        border: none;
+}
+
+dt code {
+        font-weight: bold;
+}
+
+dd p {
+        margin-top: 0;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #c00000;
+    text-decoration: underline;
+}
+
+#logo {
+    padding: 0rem 2.5rem;
+    height: 9rem;
+}
+
+#header {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    text-align: left;
+}
+
+#footer {
+    margin-top: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    border-top: 1px dashed black;
+    text-align: right;
+}
