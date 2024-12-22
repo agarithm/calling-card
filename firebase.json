@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "target": "agarithm-calling-card",
     "public": "public",
     "ignore": [
       "firebase.json",
