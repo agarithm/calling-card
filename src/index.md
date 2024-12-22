@@ -4,7 +4,7 @@
 
 # Projects / Work History
 
-## 2022 - Current 
+## 2022 - Current
 ### J.D. Power - Technology Manager
 
 #### AI Cloud: a Multi-tenant Data Warehouse and Low Code ETL Platform
@@ -33,12 +33,3 @@ My role on the team is to maintain the AI Cloud system while expanding its capab
 ## 2010 - 2014
 ### Blackberry - Senior Software Engineering Manager
 
-# Ancient History
-
-## 1997 - 2010
-### 
-
-# Education
-## 1992 - 1997 
-### University of Western Ontario
-#### B. Eng. Sci. - Electrical Engineering

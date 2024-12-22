@@ -19,6 +19,7 @@ jobs:
 
     - name: Deploy to Firebase
       env:
+        GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
       run: |
         firebase deploy --only hosting
