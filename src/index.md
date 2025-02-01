@@ -9,9 +9,9 @@
 
 #### AI Cloud: a Multi-tenant Data Warehouse and Low Code ETL Platform
 
-The <a href="https://cloud.jdpower.ai/app/aic/index.html#/login" target="_blank" rel="noopener noreferrer">AI Cloud</a> system powers much of the internal data processing within J.D. Power.  It is a highly scalable platform running batch processing jobs using Kubernetes on GKE and Fargate. Included in this work is a user friendly (low-code) Web Application that helps data analysts configure and operate complex data pipelines (ETL/Data Warehouse).
+The internal AI Cloud system powers much of the data processing within J.D. Power.  It is a highly scalable platform running batch processing jobs using Kubernetes on GKE and Fargate. Included in this work is a user friendly (low-code) Web Application that helps data analysts configure and operate complex data pipelines (ETL/Data Warehouse).
 
-My role on the team is to maintain the AI Cloud system while expanding its capabilities.  I set the roadmap for the AI Cloud team and oversee all work done on the platform.
+My role on the team is to maintain the AI Cloud system while expanding its capabilities.  I help set the roadmap for the AI Cloud team and oversee all work done on the platform.
 
 - **Web App and REST API:** Angular, NestJS, Swagger, Typescript, Firestore
 - **ETL Connectors:** BigQuery, Redshift, Oracle, Postgres, MariaDB, MySQL, S3, Azure Blob Storage, GCS, MongoDB, Cassandra, ElasticSearch, FTP/FTPS/SFTP
@@ -19,7 +19,7 @@ My role on the team is to maintain the AI Cloud system while expanding its capab
 - **Hosted IDE Environments:** Jupyter Notebooks, R Studio
 - **3rd Party Integrations:** Palantir, ThoughSpot, Tableau, Databricks
 - **Cloud Platforms:** AWS, GCP, Azure
-- **DevOps:** Terraform, Docker, Gitlab CICD
+- **DevOps:** Terraform, [Kubernetes](k8s.html), Docker, GitLab CICD
 
 ## 2020 - 2022
 ### Signal Flare - CTO / Founder
@@ -51,7 +51,7 @@ The second innovation was all around deep integration with our partners.  We hel
 
 #### Kindera: The easy way to protect your kids online
 
-This project was some of my best work.  So many different technical challenges all overcome to produce the best Parental Control WiFi router that has ever been made.  You can still buy one here: [Kindera](https://kindera.com)
+This project was some of [my best work](kindera.html).  So many different technical challenges all overcome to produce the best Parental Control WiFi router that has ever been made.  You can still buy one here: [Kindera](https://kindera.com)
 
 ## 2010 - 2014
 ### BlackBerry - Senior Software Engineering Manager
