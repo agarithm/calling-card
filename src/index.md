@@ -5,7 +5,7 @@
 # Projects / Work History
 
 ## 2022 - Current
-### J.D. Power - Technology Manager
+### J.D. Power - Software Development Manager
 
 #### AI Cloud: a Multi-tenant Data Warehouse and Low Code ETL Platform
 
@@ -17,9 +17,9 @@ My role on the team is to maintain the AI Cloud system while expanding its capab
 - **ETL Connectors:** BigQuery, Redshift, Oracle, Postgres, MariaDB, MySQL, S3, Azure Blob Storage, GCS, MongoDB, Cassandra, ElasticSearch, FTP/FTPS/SFTP
 - **Pipeline Runtime Environments:** Python, PySpark, NodeJS, R, Kotlin, SQL, BQ SQL
 - **Hosted IDE Environments:** Jupyter Notebooks, R Studio
-- **3rd Party Integrations:** Palantir, ThoughSpot, Tableau, Databricks
+- **3rd Party Integrations:** Palantir, ThoughtSpot, Tableau, Databricks
 - **Cloud Platforms:** AWS, GCP, Azure
-- **DevOps:** Terraform, [Kubernetes](k8s.html), Docker, GitLab CICD
+- **DevOps:** Terraform, [Kubernetes](k8s.html), Docker, Gitlab CICD
 
 ## 2020 - 2022
 ### Signal Flare - CTO / Founder
@@ -38,7 +38,7 @@ Signal Flare centralizes your annotations so that everywhere you go, your charts
 
 I joined <a href="https://loanconnect.ca/" target="_blank" rel="noopener noreferrer">LoanConnect</a> in the very early days of the company.  When I left we had reached the total addressable market in Canada for sub-prime borrowers.  The key to our success was optimizing the borrower life-cycle events to match hyper-targeted marketing messages.
 
-The technology evolved under my leadership in two important directions: the first was in synchronizing the marketing message and channels to the borrower.  If they had abandoned their partially completed application a call centre rep would call them to help finish the form.  If they had been rejected by a lender, an automated email with alternative loan offers was sent.  And many more in-the-moment automations kept the borrower on track and on a path to success.
+The technology evolved under my leadership in two important directions: the first was in synchronizing the marketing message and channels to the borrower.  If they had abandoned their partially completed application a call Centre rep would call them to help finish the form.  If they had been rejected by a lender, an automated email with alternative loan offers was sent.  And many more in-the-moment automations kept the borrower on track and on a path to success.
 
 The second innovation was all around deep integration with our partners.  We helped Lenders expose APIs and Callback interfaces so that a borrower would never have to enter their data twice.  And once rejected the Lender via the callback would earn commissions on future events for that borrower as they re-entered the LoanConnect system as an affiliate tracked lead.  The affiliate tracking and commission sharing ultimately resulted in near 100% visibility into all the active borrowers seeking sub-prime loans in Canada.
 
@@ -56,5 +56,5 @@ This project was some of [my best work](kindera.html).  So many different techni
 ## 2010 - 2014
 ### BlackBerry - Senior Software Engineering Manager
 
-I managed a large team in this company.  Together we built an amazing BlackBerry TV product that didn't ship. Our team was instead disbanded and dropped into the PlayBook and BB10 launch effort.  A whole lot of very interesting work was done.  And my name ended up on four patents.
+I managed a large team in this company.  Together we built an amazing BlackBerry TV product that didn't ship. Our team was instead re-tasked into the PlayBook and BB10 launch effort.  A whole lot of very interesting work was done.  And my name ended up on four patents.
 
