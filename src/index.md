@@ -60,7 +60,7 @@ The second innovation was all around deep integration with our partners.  We hel
 
 #### Kindera: The easy way to protect your kids online
 
-This project was some of [my best work](kindera.html).  So many different technical challenges all overcome to produce the best Parental Control WiFi router that has ever been made.  You can still buy one here: [Kindera](https://kindera.com)
+This project was some of [my best work](kindera.html).  So many different technical challenges all overcome to produce the best Parental Control WiFi router that has ever been made.  You can still see the original marketing site here: [Kindera](https://kindera.com)
 
 ## 2010 - 2014
 ### BlackBerry - Senior Software Engineering Manager
