@@ -6,7 +6,7 @@
 
 ### Hardware
 
-Not much to say about hardware here.  My partner in the venture sourced an OEM 802.11AC wireless router manufacturer and we had them put double the RAM on the device to support our use case.  One interesting discovery along the way though, when building a device for the user don't forget that the factory has its own needs.  We discovered late that we needed a second firmware build that supported all the test and validation required by the factory; flash all the LEDs, turn on and off the radios, support USB drive functions, etc.  Basically exercise all features of the board in a way that demonstrates the device is flawless when connected to the test fixture.
+Not much to say about hardware here.  My partner in the venture sourced an OEM 802.11AC wireless router manufacturer and we had them put double the RAM on the device to support our use case.  One interesting discovery along the way though,, when building a device for the user don't forget that the factory has its own needs.  We discovered late that we needed a second firmware build that supported all the test and validation required by the factory; flash all the LEDs, turn on and off the radios, support USB drive functions, etc.  Basically exercises all features of the board in a way that demonstrates the device is flawless when connected to the test fixture.
 
 ### Firmware
 
