@@ -31,12 +31,14 @@ Successfully conceived, developed, and launched <a href="https://signalflare.app
 Signal Flare solves a fundamental problem in marketing analytics: the inability to correlate marketing actions with their results across multiple platforms. The solution provides a unified annotation layer that works seamlessly with popular tools like Google Analytics, ahrefs, and Semrush, enabling marketers to see the direct impact of their campaigns in real-time.
 
 The platform helps marketing teams:
+
 - Track marketing actions and their effects across multiple analytics platforms
 - Perform differential analysis to measure campaign effectiveness
 - Organize notes with color-coding for better visualization
 - Share annotations across team members and tools
 
 **Tech Stack:**
+
 - **Chrome Extension:** React, Redux, antd, D3.js, Firestore
 
 
