@@ -17,19 +17,26 @@ My role on the team is to maintain the AI Cloud system while expanding its capab
 - **ETL Connectors:** BigQuery, Redshift, Oracle, Postgres, MariaDB, MySQL, S3, Azure Blob Storage, GCS, MongoDB, Cassandra, ElasticSearch, FTP/FTPS/SFTP
 - **Pipeline Runtime Environments:** Python, PySpark, NodeJS, R, Kotlin, SQL, BQ SQL
 - **Hosted IDE Environments:** Jupyter Notebooks, R Studio
-- **3rd Party Integrations:** Palantir, ThoughtSpot, Tableau, Databricks
+- **3rd Party Integrations:** Palantir, ThoughtSpot, Tableau, Databricks, Snowflake
 - **Cloud Platforms:** AWS, GCP, Azure
 - **DevOps:** Terraform, [Kubernetes](k8s.html), Docker, Gitlab CICD
 
 ## 2020 - 2022
 ### Signal Flare - CTO / Founder
 
-#### Signal Flare: Let your analytics tell your story
+#### Signal Flare: Context-Rich Analytics for Data-Driven Marketing
 
-It was a simple observation that led me to build <a href="https://signalflare.app/" target="_blank">Signal Flare</a>.  Tracking the SEO actions taken through to their effects on our marketing dashboards was exceedingly difficult.  A new campaign would be launched and a week or two later identifying the campaign on the charts in our analytics dashboard would be a real chore.  It gets worse as you move from tool to tool: Google Analytics, ahrefs, Semrush, etc.
+Successfully conceived, developed, and launched <a href="https://signalflare.app/" target="_blank">Signal Flare</a>, an innovative Chrome extension that transforms how marketers track and analyze their growth initiatives. Took the product from initial concept through to successful launch in the Chrome Web Store, addressing a critical gap in the marketing analytics space.
 
-Signal Flare centralizes your annotations so that everywhere you go, your charts are augmented with your notes.  Now it's easy to see where a campaign starts or ends in all of dashboards.
+Signal Flare solves a fundamental problem in marketing analytics: the inability to correlate marketing actions with their results across multiple platforms. The solution provides a unified annotation layer that works seamlessly with popular tools like Google Analytics, ahrefs, and Semrush, enabling marketers to see the direct impact of their campaigns in real-time.
 
+The platform helps marketing teams:
+- Track marketing actions and their effects across multiple analytics platforms
+- Perform differential analysis to measure campaign effectiveness
+- Organize notes with color-coding for better visualization
+- Share annotations across team members and tools
+
+**Tech Stack:**
 - **Chrome Extension:** React, Redux, antd, D3.js, Firestore
 
 
