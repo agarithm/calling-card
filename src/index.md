@@ -26,7 +26,7 @@ My role on the team is to maintain the AI Cloud system while expanding its capab
 
 #### Signal Flare: Context-Rich Analytics for Data-Driven Marketing
 
-Successfully conceived, developed, and launched <a href="https://signalflare.app/" target="_blank">Signal Flare</a>, an innovative Chrome extension that transforms how marketers track and analyze their growth initiatives. Took the product from initial concept through to successful launch in the Chrome Web Store, addressing a critical gap in the marketing analytics space.
+Successfully conceived, developed, and launched <a href="https://signalflare.app/" target="_blank">Signal Flare</a>, an innovative Chrome extension that transforms how marketers track and analyze their growth initiatives.  Took the product from initial concept through to successful launch in the Chrome Web Store, addressing a critical gap in the marketing analytics space.
 
 Signal Flare solves a fundamental problem in marketing analytics: the inability to correlate marketing actions with their results across multiple platforms. The solution provides a unified annotation layer that works seamlessly with popular tools like Google Analytics, ahrefs, and Semrush, enabling marketers to see the direct impact of their campaigns in real-time.
 
@@ -49,7 +49,7 @@ I joined <a href="https://loanconnect.ca/" target="_blank" rel="noopener norefer
 
 The technology evolved under my leadership in two important directions: the first was in synchronizing the marketing message and channels to the borrower.  If they had abandoned their partially completed application a call center rep would call them to help finish the form.  If they had been rejected by a lender, an automated email with alternative loan offers was sent.  And many more in-the-moment automations kept the borrower on track and on a path to success.
 
-The second innovation was all around deep integration with our partners.  We helped Lenders expose APIs and Callback interfaces so that a borrower would never have to enter their data twice.  And once rejected the Lender via the callback would earn commissions on future events for that borrower as they re-entered the LoanConnect system as an affiliate tracked lead.  The affiliate tracking and commission sharing ultimately resulted in near 100% visibility into all the active borrowers seeking sub-prime loans in Canada.
+The second innovation was all around deep integration with our partners.  We helped lenders expose APIs and callback interfaces so that a borrower would never have to enter their data twice.  And once rejected, the lender via the callback would earn commissions on future events for that borrower as they re-entered the LoanConnect system as an affiliate-tracked lead.  The affiliate tracking and commission sharing ultimately resulted in near 100% visibility into all the active borrowers seeking sub-prime loans in Canada.
 
 - **Web App and API:** CakePHP, MySQL, RabbitMQ, jQuery
 - **Hosting:** DigitalOcean
