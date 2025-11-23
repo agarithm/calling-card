@@ -1,10 +1,10 @@
 % Mike Agar
 
 **Location:** Kitchener, Ontario  
-**Email:** agarithm@gmail.com
+**Email:** agarithm@gmail.com  
 **Phone:** +1 (226) 339-4486  
-**LinkedIn:** [linkedin.com/in/mikeagar](https://linkedin.com/in/mikeagar)
-**GitHub:** [github.com/agarithm](https://github.com/agarithm)
+**LinkedIn:** [linkedin.com/in/mikeagar](https://linkedin.com/in/mikeagar)  
+**GitHub:** [github.com/agarithm](https://github.com/agarithm)  
 
 ---
 
