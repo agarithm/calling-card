@@ -1,12 +1,10 @@
 % Mike Agar
 
-**Location:** [Kitchener, Ontario]  
-**Email:** [mike@agarithm.com]  
-**Phone:** [+1 (226) 339-4486]  
-**LinkedIn:** [linkedin.com/in/mikeagar]  
-**GitHub:** [github.com/agarithm]
-
-> *"If you can imagine it, I can build it."*
+**Location:** Kitchener, Ontario  
+**Email:** agarithm@gmail.com
+**Phone:** +1 (226) 339-4486  
+**LinkedIn:** [linkedin.com/in/mikeagar](https://linkedin.com/in/mikeagar)
+**GitHub:** [github.com/agarithm](https://github.com/agarithm)
 
 ---
 
@@ -46,7 +44,7 @@ Areas of strength include:
 ## Professional Experience
 
 ### J.D. Power — Software Development Manager
-**2022 – Present | [Remote]**
+**2022 – Present | Remote**
 
 Lead the AI Cloud team responsible for a multi-tenant data warehouse and low-code ETL platform that powers much of J.D. Power's internal data processing.  The platform orchestrates large-scale batch processing on Kubernetes (GKE and Fargate) and exposes a user-friendly web application that lets data analysts configure and operate complex pipelines without deep infrastructure knowledge.
 
@@ -65,7 +63,7 @@ Lead the AI Cloud team responsible for a multi-tenant data warehouse and low-cod
 ---
 
 ### Signal Flare — CTO / Founder
-**2020 – 2022 | [Remote]**
+**2020 – 2022 | Remote**
 
 Founded and built Signal Flare, a context-rich analytics tool delivered as a Chrome extension that helps marketers track and analyze their growth initiatives across platforms.  Took the product from concept through development, launch, and iteration in the Chrome Web Store.
 
@@ -101,7 +99,7 @@ I joined LoanConnect in the early days and helped scale the platform to reach th
 ---
 
 ### BluePoint Technology — CTO / Co-Founder
-**2014 – 2017 | [Kitchener, Ontario]**
+**2014 – 2017 | Kitchener, Ontario**
 
 Co-founded BluePoint Technology and led the design and development of Kindera, a parental-control WiFi router described as "the easy way to protect your kids online."  This was an end-to-end hardware, firmware, and software effort that combined embedded Linux, networking, security, and machine learning.
 
@@ -122,7 +120,7 @@ Co-founded BluePoint Technology and led the design and development of Kindera, a
 ---
 
 ### BlackBerry — Senior Software Engineering Manager
-**2010 – 2014 | [Waterloo, Ontario]**
+**2010 – 2014 | Waterloo, Ontario**
 
 Led a large engineering team working on advanced media products at BlackBerry.  The team built an ambitious BlackBerry TV product (ultimately not shipped) and was later re-tasked into the PlayBook and BB10 launch efforts.
 
@@ -133,14 +131,14 @@ Led a large engineering team working on advanced media products at BlackBerry.  
 - Collaborated across hardware, software, and product organizations to bring new experiences to market.
 - Named on four patents related to this work.
 
-**Tech:** [Relevant languages/technologies used at BlackBerry], embedded systems, media platforms.
+**Tech:** QNX, C/C++, Java, OpenGL, Jenkins.
 
 ---
 
 ## Education
 
-**[Engineering Science, Electrical Engineering]** — [Western], [London, Ontario]  
-**Years:** [1992 – 1997]
+**Engineering Science, Electrical Engineering** — Western University, London, Ontario  
+**Years:** 1992 – 1997
 
 ---
 
@@ -149,4 +147,3 @@ Led a large engineering team working on advanced media products at BlackBerry.  
 - US 9300263 — *Apparatus and Method Pertaining to Volume Control* (Issued Mar 29, 2016)
 - US 9209980 — *Provisioning a Shared Secret to a Portable Electronic Device and to a Service Entity* (Issued Dec 8, 2015)
 - US 8963953 — *Interface for Previewing Image Content* (Issued Feb 24, 2015)
-- US 20120278816 — *Apparatus, and Associated Method, for Forming a Media Play-Out List* (Filed Apr 30, 2011)
