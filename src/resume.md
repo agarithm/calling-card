@@ -1,8 +1,8 @@
 % Mike Agar
 
 **Location:** Kitchener, Ontario  
-**Email:** agarithm@gmail.com  
-**Phone:** +1 (226) 339-4486  
+**Email:** [agarithm@gmail.com](mailto:agarithm@gmail.com?subject=Inquiry%20from%20online%20resume)  
+**Phone:** +1.226.339.4486  
 **LinkedIn:** [linkedin.com/in/mikeagar](https://linkedin.com/in/mikeagar)  
 
 ---
